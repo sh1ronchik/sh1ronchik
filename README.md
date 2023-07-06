@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Artem</h1>
 <h3 align="center">Python and C developer from Nizhny Novgorod</h3>
 
-- 🔭 I’m currently working on [my-profile](https://github.com/ArtemOvsyannikov/my-profile)
+- 🔭 I’m currently working on [my-profile](https://github.com/ArtemOvsyannikov/ArtemOvsyannikov)
 
 - 🌱 I’m currently learning **numpy, pandas, probability theory and mathematical statistics**
 
