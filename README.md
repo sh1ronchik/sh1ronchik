@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/kot_v_meshke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kot_v_meshke" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14491746/kot_v_meshke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kot_v_meshke" height="30" width="40" /></a>
 <a href="https://instagram.com/ovsiannikov450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovsiannikov450" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kot_v_meshke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kot_v_meshke" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/artemovsyannikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artemovsyannikov" height="30" width="40" /></a>
