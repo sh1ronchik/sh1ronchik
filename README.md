@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Artem</h1>
 <h3 align="center">Python and C developer from Nizhny Novgorod</h3>
 
-- 🔭 I’m currently working on [my-profile](https://github.com/ArtemOvsyannikov/ArtemOvsyannikov)
+- 🔭 I’m currently working on [programming-c-contests](https://github.com/ArtemOvsyannikov/programming-c-contests)
 
 - 🌱 I’m currently learning **numpy, pandas, probability theory and mathematical statistics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArtemOvsyannikov](https://github.com/ArtemOvsyannikov)
+- 👨‍💻 All of my projects are available [here](https://github.com/ArtemOvsyannikov)
 
 - 💬 Ask me about **python, c, c++**
 
