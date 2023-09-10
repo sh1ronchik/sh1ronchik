@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **python, c, c++**
 
-- 📫 How to reach me **artemumschool@gmail.com**
+- 📫 How to reach me: **artemumschool@gmail.com**
 
-- ⚡ Fun fact **25% of the time in programming is spent thinking about what the user might do wrong**
+- ⚡ Fun fact: **25% of the time in programming is spent thinking about what the user might do wrong**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
