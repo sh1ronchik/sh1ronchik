@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Artem</h1>
-<h3 align="center">Python and C developer from Nizhny Novgorod</h3>
+<h3 align="center">Python and C++ developer from Nizhny Novgorod</h3>
 
 - 🔭 I’m currently working on [programming-c-contests](https://github.com/ArtemOvsyannikov/programming-c-contests)
 
