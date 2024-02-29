@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **numpy, pandas, probability theory and mathematical statistics**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/ArtemOvsyannikov)
+- 👨‍💻 All of my projects are available [here](https://github.com/sh1ronchik)
 
 - 💬 Ask me about **python, c, c++**
 
