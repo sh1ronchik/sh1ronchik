@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MLOps_pipeline](https://github.com/HSE-Courseworks/MLOps_pipeline)
 
-- 🌱 I’m currently learning **mlflow, airflow, linux, c++, java, minio, algorithms and data structures, pyrogram, boto3, sklearn, numpy, pandas, docker, docker-compose, sqlite3, matplotlib, nltk**
+- 🌱 I’m currently learning **mlflow, airflow, linux, c++, java, minio, algorithms and data structures, pyrogram, boto3, sklearn, numpy, pandas, docker, docker-compose, sqlite3, matplotlib, nltk, fastapi, git, github**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sh1ronchik)
 
