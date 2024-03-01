@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sh1ronchik)
 
-- 💬 Ask me about **python, c, c++**
+- 💬 Ask me about **python, c, c++, java**
 
 - 📫 How to reach me: **artemumschool@gmail.com**
 
