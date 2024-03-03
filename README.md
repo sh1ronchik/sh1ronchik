@@ -15,9 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="header" align=""> 
-  <a href="https://vk.com/calphayus">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
   <a href="https://chto_takoe_AO.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
