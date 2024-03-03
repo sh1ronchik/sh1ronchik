@@ -15,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="header" align=""> 
+  <a href="https://vk.com/calphayus">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
   <a href="https://chto_takoe_AO.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -22,13 +25,13 @@
     <img src="https://img.shields.io/badge/-vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="mailto:artemrotfront@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>   
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,6 +40,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <h3 align="left">Some stats:</h3>
