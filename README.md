@@ -1,13 +1,13 @@
 <h2 align="center">Hi there, my name is Artem 👋</h2>
 <h3 align="center">A student and a python developer from Nizhny Novgorod</h3>
 
-- 🔭 I’m currently working on [MLOps_pipeline](https://github.com/HSE-Courseworks/MLOps_pipeline)
+- 🔭 I’m currently working on [LightSB service](https://github.com/sh1ronchik/lightsb-service)
 
-- 🌱 I’m currently learning **mlflow, airflow, java, c++**
+- 🌱 I’m currently learning **machine learning, artifical intelligence**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sh1ronchik)
 
-- 💬 Ask me about **python, c++, java**
+- 💬 Ask me about **python, data science**
   
 - ⚡ Fun fact: **25% of the time in programming is spent thinking about what the user might do wrong**
 
